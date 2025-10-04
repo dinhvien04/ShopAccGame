@@ -43,7 +43,7 @@ ShopT1 is a web application for buying and selling in-game items. Users can brow
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/dinhvien04/ShopAccGame
     ```
 
 2.  **Install backend dependencies:**
